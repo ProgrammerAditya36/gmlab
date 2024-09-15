@@ -1,16 +1,13 @@
 import { ReactNode } from "react";
 import Navbar from "./Navbar";
+import Footer from "./Footer";
 
 const Layout = ({ children }: { children: ReactNode }) => {
     return (
         <>
-            <header>
-                <Navbar />
-            </header>
+            <Navbar />
             <main>{children}</main>
-            <footer>
-                <p>&copy; {new Date().getFullYear()} My Website</p>
-            </footer>
+            <Footer />
         </>
     );
 };

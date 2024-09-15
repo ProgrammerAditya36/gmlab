@@ -29,9 +29,14 @@ interface NavItem {
     path?: string;
     dropdown?: NavItem[];
 }
+interface FooterItem {
+    name: string;
+    path?: string;
+}
 interface AppStateContextType {
     paths: Path[];
     navItems: NavItem[];
+    footerItems: FooterItem[];
     navigate: ReturnType<typeof useNavigate>;
 }
 
@@ -110,9 +115,15 @@ export const AppStateProvider = ({ children }: { children: ReactNode }) => {
 
     const navItems = [...baseNavItems, ...moreItems];
 
+    const footerItems: FooterItem[] = [
+        { name: "Home", path: "/" },
+        { name: "Contact", path: "/contact" },
+    ];
     const navigate = useNavigate();
     return (
-        <AppStateContext.Provider value={{ paths, navItems, navigate }}>
+        <AppStateContext.Provider
+            value={{ paths, navItems, footerItems, navigate }}
+        >
             {children}
         </AppStateContext.Provider>
     );
