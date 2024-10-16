@@ -3,7 +3,7 @@ import { useAppState } from "../context/appContext";
 const Footer = () => {
     const { footerItems, navigate } = useAppState();
     return (
-        <div className="fixed bottom-0 block w-full">
+        <div className="sticky bottom-0 block w-full">
             <footer className="flex items-center justify-center bg-[rgba(86,86,86)] py-6 text-white">
                 <ul className="flex gap-4">
                     {footerItems.map((item, index) => (
