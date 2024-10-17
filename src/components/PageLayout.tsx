@@ -1,35 +1,34 @@
-
 interface PageLayoutProps {
     children: React.ReactNode;
-    bgUrl: string;
-    bgTitle: string;
+    bgTitle?: string;
 }
-const PageLayout = ({ children, bgUrl, bgTitle }: PageLayoutProps) => {
+const PageLayout = ({ children, bgTitle }: PageLayoutProps) => {
+    const bgUrl = "/images/GM%27s_Research_Group_-_Bg/bg3.png";
+
     return (
         <div>
             <div
-                className="bg-center bg-cover"
+                className="bg-cover bg-center p-0"
                 style={{
                     backgroundImage: `url(${bgUrl})`,
                 }}
             >
-                <div className="flex justify-center items-center p-4 md:p-10">
-                    <div className="border-[5px] md:border-[10px] border-white p-4 md:p-10">
-                        <span className="text-[2rem] md:text-[8rem] text-white font-semibold text-center">{
-                            bgTitle
-                        }
+                <div className="flex h-[300px] items-center justify-center p-10 md:p-10">
+                    <div
+                        className="w-1/2 border-[5px] border-white p-4 text-center md:border-[10px] md:p-10"
+                        style={{
+                            backdropFilter: "blur(10px)",
+                        }}
+                    >
+                        <span className="text-center text-[2rem] font-semibold text-white md:text-[4rem]">
+                            {bgTitle}
                         </span>
                     </div>
-
                 </div>
             </div>
-            <div className=" mx-auto max-w-[65%]  my-10">
-                <div className="flex  flex-col gap-10">
-                    {children}
-                </div>
-            </div>
+            {children}
         </div>
-    )
-}
+    );
+};
 
-export default PageLayout
+export default PageLayout;

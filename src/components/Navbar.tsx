@@ -17,7 +17,7 @@ const Navbar = () => {
     };
 
     return (
-        <nav className="bg-gray-900 p-4">
+        <nav className="z-10 bg-gray-900 p-4">
             <div className="flex items-center justify-between">
                 {/* Logo Section */}
                 <div className="flex items-center gap-3">
@@ -43,8 +43,9 @@ const Navbar = () => {
 
                 {/* Menu Items */}
                 <ul
-                    className={`absolute right-0 w-full bg-gray-900 p-4 transition-all duration-300 ease-in-out lg:static lg:flex lg:h-auto lg:w-auto lg:flex-row lg:items-center lg:gap-6 lg:bg-transparent lg:p-0 ${menuOpen ? "top-16" : "top-[-100%]"
-                        }`}
+                    className={`absolute right-0 w-full bg-gray-900 p-4 transition-all duration-300 ease-in-out lg:static lg:flex lg:h-auto lg:w-auto lg:flex-row lg:items-center lg:gap-6 lg:bg-transparent lg:p-0 ${
+                        menuOpen ? "top-16" : "top-[-100%]"
+                    }`}
                 >
                     {navItems.map((item, index) => (
                         <li
@@ -84,7 +85,7 @@ const Navbar = () => {
 
                             {/* Dropdown Items */}
                             {item.dropdown && activeDropdown === index && (
-                                <div className="mt-1 z-10 w-full rounded-md bg-gray-800 shadow-lg ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:top-full lg:mt-2 lg:w-48">
+                                <div className="z-10 mt-1 w-full rounded-md bg-gray-800 shadow-lg ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:top-full lg:mt-2 lg:w-48">
                                     <div
                                         className="py-1"
                                         role="menu"

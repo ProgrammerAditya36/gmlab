@@ -1,0 +1,739 @@
+[
+    {
+        "year": 2024,
+        "publications": [
+            {
+                "title": "Robust PVA-MWCNTs-based Triboelectric Energy Harvesting Device: Self-powered Smart-door Technology",
+                "authors": [
+                    "S Amini",
+                    "RFSM Ahmed",
+                    "SM Ankanathappa",
+                    "SJ Shetty",
+                    "TK Nanditha"
+                ],
+                "journal": "Surfaces and Interfaces",
+                "doi": "104775",
+                "link": "https://doi.org/10.1016/j.surfin.2024.104775"
+            },
+            {
+                "title": "Room temperature ultrasensitive detection of acetone vapours via noble metal anchored reduced graphene oxide",
+                "authors": [
+                    "MP Shilpa",
+                    "SJ Shetty",
+                    "SS Bhat",
+                    "V Mishra",
+                    "SS Bhat",
+                    "SC Gurumurthy"
+                ],
+                "journal": "Journal of Environmental Chemical Engineering",
+                "doi": "113525",
+                "link": "https://doi.org/10.1016/j.jece.2024.113525"
+            },
+            {
+                "title": "Hybrid polymer nanocomposites with tailored band gaps and UV absorption for advanced applications in optoelectronics and UV protection",
+                "authors": [
+                    "CM Kavitha",
+                    "KM Eshwarappa",
+                    "MP Shilpa",
+                    "SJ Shetty",
+                    "SC Gurumurthy"
+                ],
+                "journal": "Polymers for Advanced Technologies",
+                "volume": "35",
+                "issue": "7",
+                "doi": "e6515",
+                "link": "https://doi.org/10.1002/pat.6515"
+            },
+            {
+                "title": "A novel approach to enhance the ionic conductivity of silver nanoparticles incorporated PVA: NaBr polymer electrolyte films via fast neutron irradiation",
+                "authors": [
+                    "MP Shilpa",
+                    "V Cyriac",
+                    "SC Gurumurthy",
+                    "S Shet",
+                    "KV Subbaiah",
+                    "MS Murari"
+                ],
+                "journal": "Radiation Physics and Chemistry",
+                "volume": "218",
+                "doi": "111590",
+                "link": "https://doi.org/10.1016/j.radphyschem.2024.111590"
+            },
+            {
+                "title": "Tuning the optical and electrical properties by gamma irradiation of silver nanoparticles decorated graphene oxide on glutaraldehyde crosslinked polyvinyl alcohol matrix",
+                "authors": [
+                    "CM Kavitha",
+                    "KM Eshwarappa",
+                    "MP Shilpa",
+                    "SJ Shetty",
+                    "S Surabhi"
+                ],
+                "journal": "Materials Research Bulletin",
+                "year": "2024",
+                "doi": "112685",
+                "link": "https://doi.org/10.1016/j.materresbull.2024.112685"
+            },
+            {
+                "title": "A comparative study on impact of the synthesis techniques on the catalytic properties of Ni-doped titania",
+                "authors": [
+                    "S Rao",
+                    "MP Shilpa",
+                    "SJ Shetty",
+                    "MS Murari",
+                    "G Santhosh",
+                    "S Surabhi"
+                ],
+                "journal": "Materials Science and Engineering: B",
+                "year": "2024",
+                "doi": "117013",
+                "link": "https://doi.org/10.1016/j.mseb.2023.117013"
+            },
+            {
+                "title": "Effect of Cu Doping on Structural, Optical, and Electrical Properties of Sn2S3 Thin Films Prepared by Spray Pyrolysis",
+                "authors": [
+                    "BS Nagaraja",
+                    "KP Girija",
+                    "K Mahendra",
+                    "J Pattar",
+                    "SC Gurumurthy",
+                    "Ravikirana"
+                ],
+                "journal": "JOM",
+                "year": "2024",
+                "doi": "11837-023-06276-6",
+                "link": "https://doi.org/10.1007/s11837-023-06276-6"
+            },
+            {
+                "title": "Modification of thermal and electrical characteristics of hybrid polymer nanocomposites through gamma irradiation for advanced applications",
+                "authors": [
+                    "CM Kavitha",
+                    "KM Eshwarappa",
+                    "SJ Shetty",
+                    "SC Gurumurthy",
+                    "S Surabhi"
+                ],
+                "journal": "Discover Nano",
+                "year": "2024",
+                "doi": "11671-024-03972-3",
+                "link": "https://doi.org/10.1186/s11671-024-03972-3"
+            },
+            {
+                "title": "A novel approach to enhance the ionic conductivity of silver nanoparticles incorporated PVA:NaBr polymer electrolyte films via fast neutron irradiation",
+                "authors": [
+                    "M.P. Shilpa",
+                    "Vipin Cyriac",
+                    "S.C. Gurumurthy",
+                    "Ismayil",
+                    "Sachin Shet",
+                    "K.V. Subbaiah",
+                    "M.S. Murari"
+                ],
+                "journal": "Radiation Physics and Chemistry",
+                "year": "2024",
+                "doi": "111590",
+                "link": "https://doi.org/10.1016/j.radphyschem.2024.111590"
+            },
+            {
+                "title": "Investigation on spray pyrolyzed RMnO3 [R = Y, er, Yb] hexamanganite thin films for their suitability in photovoltaics",
+                "authors": [
+                    "D. R. Inchara",
+                    "S. C. Gurumurthy",
+                    "M. S. Murari",
+                    "Mamatha D. Daivajna"
+                ],
+                "journal": "Journal of Materials Science: Materials in Electronics",
+                "year": "2024",
+                "doi": "10854-024-11962-5",
+                "link": "https://doi.org/10.1007/s10854-024-11962-5"
+            },
+            {
+                "title": "Highly responsive reduced graphene oxide embedded PVDF flexible film-based room temperature operable humidity sensor",
+                "authors": [
+                    "M.P. Shilpa",
+                    "B. Chethan",
+                    "Shivakumar Jagadish Shetty",
+                    "M.S. Murari",
+                    "Maqsood R. Waikar",
+                    "Rajendra G. Sonkawade",
+                    "S.C. Gurumurthy"
+                ],
+                "journal": "Sensors and Actuators: A. Physical",
+                "year": "2024",
+                "doi": "115011",
+                "link": "https://doi.org/10.1016/j.sna.2024.115011"
+            }
+        ]
+    },
+    {
+        "year": 2023,
+        "publications": [
+            {
+                "title": "Sol-gel-assisted synthesis of ultra-fine porous SiO2 nanoparticles for investigation of lubricity and rheological properties of eco-friendly bio-lubricant oil",
+                "authors": [
+                    "Meghana K. Navada",
+                    "Ranjitha Rai",
+                    "Akshatha R. Shetty",
+                    "Girish Hariharan",
+                    "Nitesh Kumar",
+                    "Shiva Kumar",
+                    "Gurumurthy Sangam",
+                    "Chandrashekar",
+                    "Ganesha Aroor"
+                ],
+                "journal": "Chemical Papers",
+                "year": "2023",
+                "doi": "11696-023-03250-z",
+                "link": "https://doi.org/10.1007/s11696-023-03250-z"
+            },
+            {
+                "title": "Effect of Cu Doping on Structural, Optical, and Electrical Properties of Sn2S3 Thin Films Prepared by Spray Pyrolysis",
+                "authors": [
+                    "B. S. Nagaraja",
+                    "K. P. Girija",
+                    "K. Mahendra",
+                    "Jayadev Pattar",
+                    "S. C. Gurumurthy",
+                    "Ravikirana",
+                    "Ashok Rao",
+                    "K. Shyam Prasad"
+                ],
+                "journal": "Advanced Functional and Structural Thin Films and Coatings",
+                "year": "2023",
+                "doi": "11837-023-06276-6",
+                "link": "https://doi.org/10.1007/s11837-023-06276-6"
+            },
+            {
+                "title": "A comparative study on impact of the synthesis techniques on the catalytic properties of Ni-doped titania",
+                "authors": [
+                    "Shreya Rao",
+                    "M.P. Shilpa",
+                    "Shivakumar Jagadish Shetty",
+                    "M.S. Murari",
+                    "G Santhosh",
+                    "Srivathsava Surabhi",
+                    "Ravikirana",
+                    "S.C. Gurumurthy"
+                ],
+                "journal": "Materials Science and Engineering: B",
+                "year": "2023",
+                "doi": "117013",
+                "link": "https://doi.org/10.1016/j.mseb.2023.117013"
+            },
+            {
+                "title": "Surface Functionalized Multi-Wall Carbon Nanotubes for Degradation of Organic Dyes",
+                "authors": [
+                    "Shivakumar Jagadish Shetty",
+                    "M.P. Shilpa",
+                    "Saideep Shirish Bhat",
+                    "K.S. Pavithra",
+                    "Sudheer Moorkoth",
+                    "Ashutosh Gupta",
+                    "Srivathsava Surabhi",
+                    "R.C. Shivamurthy",
+                    "S.C. Gurumurthy"
+                ],
+                "journal": "Materials Physics and Chemistry",
+                "year": "2023",
+                "doi": "128566",
+                "link": "https://doi.org/10.1016/j.matchemphys.2023.128566"
+            },
+            {
+                "title": "Enhanced Bactericidal Effects and Drug Delivery with Gentamicin-Conjugated Nanoparticles",
+                "authors": [
+                    "I. D Athauada",
+                    "M. G. Shetty",
+                    "P. Pai",
+                    "M. Hegde",
+                    "S. C. Gurumurthy",
+                    "K. S. Babitha"
+                ],
+                "journal": "Journal of Cluster Science",
+                "year": "2023",
+                "doi": "10876-023-02501-z",
+                "link": "https://doi.org/10.1007/s10876-023-02501-z"
+            },
+            {
+                "title": "Decentralised core-shell Au/Ag bimetallic nanostructures prepared via green approach for catalytic and antimicrobial applications",
+                "authors": [
+                    "M.P. Shilpa",
+                    "Vighnesh Shetty",
+                    "Srivasthava Surabhi",
+                    "Jong-Ryul Jeong",
+                    "D. V. Morales",
+                    "Mamatha Ballal",
+                    "K. M. Eshwarappa",
+                    "Ravikirana",
+                    "M.S. Murari",
+                    "Roopa Nayak",
+                    "S. C. Gurumurthy"
+                ],
+                "journal": "Materials Science and Engineering: B",
+                "volume": "298",
+                "year": "2023",
+                "doi": "116893",
+                "link": "https://doi.org/10.1016/j.mseb.2023.116893"
+            },
+            {
+                "title": "Clitoria Ternatea Flower Extract: Biopolymer Composite-Based Triboelectric Nanogenerator as a Self- Powered Smart Counter",
+                "authors": [
+                    "Rumana Farheen Sagade Muktar Ahmed",
+                    "Shashi Kumar Kumara Swamy",
+                    "Gurumurthy Sangam Chandrasekhar",
+                    "Sangamesha Madanahalli Ankanathappa",
+                    "Arunkumar Chandrasekhar",
+                    "Krishnaveni Sannathammegowda"
+                ],
+                "journal": "Surfaces and Interfaces",
+                "volume": "42",
+                "year": "2023",
+                "doi": "103369",
+                "link": "https://doi.org/10.1016/j.surfin.2023.103369"
+            },
+            {
+                "title": "Polyaniline grafted pullulan: Optical, thermal, structural, and electrical characterization studies in combination with density functional theory calculations",
+                "authors": [
+                    "N. Noorjan",
+                    "Jyothi John",
+                    "Shashi Kumar Kumara Swamy",
+                    "S. C. Gurumurthy",
+                    "A. T. Ramaprasad"
+                ],
+                "journal": "Journal of Applied Polymer Science",
+                "volume": "140",
+                "year": "2023",
+                "doi": "e54407",
+                "link": "https://doi.org/10.1002/app.54407"
+            },
+            {
+                "title": "Nanogold-decorated reduced graphene oxide for catalytic hydrogenation of 4-nitrophenol",
+                "authors": [
+                    "Shilpa M P",
+                    "Shivakumar Jagadish Shetty",
+                    "Saideep Shirish Bhat",
+                    "Srivathsava Surabhi",
+                    "M.S. Murari",
+                    "VighneshwarS. Bhat",
+                    "SanjeevR. Inamdar",
+                    "Ravikirana",
+                    "Jong-Ryul Jeong",
+                    "D.V. Morales",
+                    "Gurumurthy S C"
+                ],
+                "journal": "Materials Chemistry and Physics",
+                "year": "2023",
+                "doi": "128145",
+                "link": "https://doi.org/10.1016/j.matchemphys.2023.128145"
+            },
+            {
+                "title": "Avoiding Desiccation Cracks during the Formation of Multilayer Graphene Oxide Films",
+                "authors": [
+                    "Vishwanath H S",
+                    "Gurumurthy Sangam Chandrasekhar",
+                    "Shridhar Mundinamani"
+                ],
+                "journal": "ACS Applied Engineering Materials",
+                "volume": "1",
+                "year": "2023",
+                "doi": "140-151",
+                "link": "https://doi.org/10.1021/acsaenm.2c00027"
+            },
+            {
+                "title": "A combined experimental and computational study of flexible polyvinyl alcohol (PVA)/graphene oxide (GO) nanocomposite films for superior UV shielding with improved mechanical properties",
+                "authors": [
+                    "Kavitha Cheelangi Mruthyunjayappa",
+                    "Shashidhar Anivala Paramashivaiah",
+                    "Eshwarappa Kunabevu Mallikarjunappa",
+                    "Shilpa Molakkalu Padre",
+                    "S.C. Gurumurthy",
+                    "Srivathsava Surabhi",
+                    "Jong-Ryul Jeong",
+                    "Daniela. Valentina Morales Montecinos",
+                    "Murari M S"
+                ],
+                "journal": "Materials Today Communications",
+                "volume": "35",
+                "year": "2023",
+                "doi": "105662",
+                "link": "https://doi.org/10.1016/j.mtcomm.2023.105662"
+            }
+        ]
+    },
+    {
+        "year": 2022,
+        "publications": [
+            {
+                "title": "Analysis of shape dependency of thermal conductivity of silver-based nanofluids",
+                "authors": [
+                    "Smita Mahadevappa Nyamgoudar",
+                    "Vasavi Prasuna Silaparasetti",
+                    "MP Shilpa",
+                    "KS Pavithra",
+                    "Shridhar Mundinamani",
+                    "KM Eshwarappa",
+                    "Srivathsava Surabhi",
+                    "Koduri Ramam",
+                    "A Ganesha",
+                    "SC Gurumurthy"
+                ],
+                "journal": "Journal of Thermal Analysis and Calorimetry",
+                "volume": "147",
+                "year": "2022",
+                "doi": "14031-14038",
+                "link": "https://doi.org/10.1007/s10973-022-11604-0"
+            },
+            {
+                "title": "Mono-and Bimetallic Nanoparticles for Catalytic Degradation of Hazardous Organic Dyes and Antibacterial Applications",
+                "authors": [
+                    "Shilpa Molakkalu Padre",
+                    "S Kiruthika",
+                    "Shridhar Mundinamani",
+                    "Ravikirana",
+                    "Srivathsava Surabhi",
+                    "Jong-Ryul Jeong",
+                    "Kunabevu Mallikarjunappa Eshwarappa",
+                    "Mudiyaru Subrahmanya Murari",
+                    "Vignesh Shetty",
+                    "Mamatha Ballal",
+                    "Gurumurthy SC"
+                ],
+                "journal": "ACS Omega",
+                "volume": "7",
+                "year": "2022",
+                "doi": "35023-35034",
+                "link": "https://doi.org/10.1021/acsomega.2c03784"
+            },
+            {
+                "title": "Tuning the ionic conductivity of flexible polyvinyl alcohol/sodium bromide polymer electrolyte films by incorporating silver nanoparticles for energy storage device applications",
+                "authors": [
+                    "Vipin Cyriac",
+                    "Shilpa Molakalu Padre",
+                    "Gurumurthy Sangam Chandrashekar",
+                    "Chetan Chavan",
+                    "Rajashekhar Fakeerappa Bhajantri",
+                    "Mudiyaru Subrahmanya Murari"
+                ],
+                "journal": "Journal of Applied Polymer Science",
+                "volume": "139",
+                "year": "2022",
+                "doi": "e52525",
+                "link": "https://doi.org/10.1002/app.52525"
+            },
+            {
+                "title": "Flexible, large-area, multi-layered graphene/cellulose composite for dye filtration applications",
+                "authors": [
+                    "H S Vishwanath",
+                    "M P Shilpa",
+                    "S C Gurumurthy",
+                    "Murali Gedda",
+                    "Koduri Ramam",
+                    "K M Eshwarappa",
+                    "Ravi Kirana",
+                    "Nirankar Nath Mishra",
+                    "Shridhar Mundinamani"
+                ],
+                "journal": "Materials Today Communications",
+                "volume": "30",
+                "year": "2022",
+                "doi": "103134",
+                "link": "https://doi.org/10.1016/j.mtcomm.2022.103134"
+            },
+            {
+                "title": "Chitosan-Polyvinyl Alcohol blend as beta-ray attenuator",
+                "authors": [
+                    "Jyothi John",
+                    "N Noorjan",
+                    "SC Gurumurthy",
+                    "AT Ramaprasad"
+                ],
+                "journal": "Materials Today: Proceedings",
+                "volume": "66",
+                "year": "2022",
+                "doi": "2109-2114",
+                "link": "https://doi.org/10.1016/j.matpr.2022.05.518"
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "publications": [
+            {
+                "title": "Role of TiO2/ZnO Nanofillers in Modifying the Properties PMMA Nanocomposites for Optical Device Applications",
+                "authors": [
+                    "N. B. Rithin Kumar",
+                    "Santhosha Acharya",
+                    "A. Alhadhrami",
+                    "B. M. Prasanna",
+                    "S. C. Gurumurthy",
+                    "Sangeetha Bhat"
+                ],
+                "journal": "Iranian Journal of Science and Technology, Transactions A: Science",
+                "volume": "45",
+                "year": "2021",
+                "doi": "2169–2179",
+                "link": "https://doi.org/10.1007/s40995-021-01183-4"
+            },
+            {
+                "title": "Effect of Silane/Amine-based Dopants on Polymer-Metal Interaction of Sub-Surface Silver Nanoparticulate Films",
+                "authors": ["Jolly, A.", "Uday, A.", "Gurumurthy S.C."],
+                "journal": "J Mater Sci: Mater Electron",
+                "volume": "32",
+                "year": "2021",
+                "doi": "2719–2730",
+                "link": "https://doi.org/10.1007/s10854-020-04995-z"
+            },
+            {
+                "title": "Viscosity Analysis of ZnO enriched Neem Oil Biolubricant at Sub Zero Temperatures",
+                "authors": [
+                    "A Ganesha",
+                    "H Girish",
+                    "M P Shilpa",
+                    "S C Gurumurthy"
+                ],
+                "journal": "International Conference on Maintenance and Intelligent Asset Management (ICMIAM)",
+                "year": "2021",
+                "doi": "1-5",
+                "link": "https://doi.org/10.1109/ICMIAM54662.2021.9715207"
+            },
+            {
+                "title": "A systematic investigation on structural, electrical, linear and nonlinear optical properties of Zn:CdO thin films for optoelectronic applications",
+                "authors": [
+                    "B.S. Nagaraja",
+                    "S.C. Gurumurthy",
+                    "Raghavendra Bairy",
+                    "Koduri Ramam",
+                    "Bindu K",
+                    "Ashok Rao"
+                ],
+                "journal": "Optical Materials",
+                "volume": "132",
+                "year": "2021",
+                "doi": "111669",
+                "link": "https://doi.org/10.1016/j.optmat.2021.111669"
+            },
+            {
+                "title": "Dielectric and piezoelectric studies of dysprosium-doped BZT–BCNT perovskite ceramic system for sensors and actuator applications",
+                "authors": [
+                    "Koduri Ramam*",
+                    "Srivathsava Surabhi",
+                    "S. C. Gurumurthy*",
+                    "M. P. Shilpa",
+                    "K. Bindu",
+                    "Ravikirana",
+                    "Shridhar Mundinamani"
+                ],
+                "journal": "Journal of Materials Science: Materials in Electronics",
+                "volume": "32",
+                "year": "2021",
+                "doi": "18002-18011",
+                "link": "https://doi.org/10.1007/s10854-021-06338-y"
+            },
+            {
+                "title": "CuAg and AuAg bimetallic nanoparticles for catalytic and heat transfer applications",
+                "authors": [
+                    "Anusha Dsouza",
+                    "M. P. Shilpa",
+                    "S. C. Gurumurthy",
+                    "B. S. Nagaraja",
+                    "Shridhar Mundinamani",
+                    "Koduri Ramam",
+                    "Murali Gedda",
+                    "M. S. Murari"
+                ],
+                "journal": "Clean Technologies and Environmental Policy",
+                "volume": "23",
+                "year": "2021",
+                "doi": "2145–2155",
+                "link": "https://doi.org/10.1007/s10098-021-02120-0"
+            },
+            {
+                "title": "Low temperature operating black SnO2 based VOC sensor setup",
+                "authors": [
+                    "Kiran Mahalingappa",
+                    "Gowtham Maralur Pranesh",
+                    "Gopinatha Bidarkatte Manjunath",
+                    "Shridhar Mundinamani",
+                    "Shilpa Molakkalu Padre",
+                    "Nirankar Nath Mishram Gurumurthy Sangham CHandrashekhar"
+                ],
+                "journal": "ACS Omega",
+                "volume": "6",
+                "year": "2021",
+                "doi": "22900–22908",
+                "link": "https://doi.org/10.1021/acsomega.1c03399"
+            },
+            {
+                "title": "Polymer‑dispersant‑stabilized Ag nanofluids for heat transfer applications",
+                "authors": [
+                    "K. S. Pavithra",
+                    "S. C. Gurumurthy",
+                    "M. P. Yashoda",
+                    "Tarun Mateti",
+                    "Koduri Ramam",
+                    "Roopa Nayak",
+                    "M. S. Murari"
+                ],
+                "journal": "Journal of Thermal Analysis and Calorimetry",
+                "volume": "146",
+                "year": "2021",
+                "doi": "601-610",
+                "link": "https://doi.org/10.1007/s10973-020-10064-8"
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "publications": [
+            {
+                "title": "Soldering of copper using graphene-phosphoric acid gel",
+                "authors": [
+                    "Gurudatt Puranik",
+                    "Asis Sarkar",
+                    "Nirankar Mishra",
+                    "Sangam Chandrasekhar Gurumurthy",
+                    "Shridhar Mundinamani"
+                ],
+                "journal": "Journal of Metals, Materials, and Minerals",
+                "volume": "30",
+                "year": "2020",
+                "doi": "60-67",
+                "link": "http://jmmm.material.chula.ac.th/index.php/jmmm/article/view/721"
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "publications": [
+            {
+                "title": "Bi2Te3 - PLZT(9/65/35)-PVDF multifunctional nanocomposite films for futuristic energy harvestors",
+                "authors": ["Ramam, K", "Gurumurthy S. C.", "Nagaraja, B. S"],
+                "journal": "AIP conference proceedings",
+                "volume": "2087",
+                "year": "2019",
+                "doi": "20016-8",
+                "link": "https://doi.org/10.1063/1.5095232"
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "publications": [
+            {
+                "title": "Optical properties of sub-surface silver nanoparticulate films on 8 MeV electron beam irradiated polymer blends",
+                "authors": [
+                    "S. C. Gurumurthy",
+                    "Manjunatha Pattabi",
+                    "Ganesh Sanjeev"
+                ],
+                "journal": "Journal of Materials Science: Materials in Electronics",
+                "volume": "25",
+                "year": "2014",
+                "doi": "4612-4616",
+                "link": "https://doi.org/10.1007/s10854-014-2211-9"
+            },
+            {
+                "title": "Preparation and characterization of silver particulate films on softened polystyrene and poly(4-vinylpyridine) blends",
+                "authors": [
+                    "S. C. Gurumurthy",
+                    "Manjunatha Pattabi",
+                    "Shreedhar Krishna",
+                    "A. B. Gaikwad"
+                ],
+                "journal": "Journal of  Materials Science: Materials in Electronics",
+                "volume": "25",
+                "year": "2014",
+                "doi": "2501-2506",
+                "link": "https://doi.org/10.1007/s10854-014-1902-6"
+            }
+        ]
+    },
+    {
+        "year": 2011,
+        "publications": [
+            {
+                "title": "Depth distribution of silver particulate films deposited in softened polystyrene substrates studied through RBS",
+                "authors": [
+                    "Richard  L  Thompson",
+                    "S C Gurumurthy",
+                    "Manjunatha Pattabi"
+                ],
+                "journal": "Journal of Applied Physics",
+                "volume": "110",
+                "year": "2011",
+                "doi": "43533-43538",
+                "link": "https://doi.org/10.1063/1.3626470"
+            },
+            {
+                "title": "Optical properties of subsurface silver particulate films on MPTMS doped polystyrene substrates",
+                "authors": [
+                    "Manjunatha Pattabi",
+                    "N. D. Naik",
+                    "Gurumurthy S C"
+                ],
+                "journal": "AIP Conference Proceedings",
+                "volume": "1349",
+                "year": "2011",
+                "doi": "695-696",
+                "link": "https://doi.org/10.1063/1.3606048"
+            },
+            {
+                "title": "Optical properties of silver particulate films on modified polymer substrates",
+                "authors": [
+                    "Gurumurthy S C",
+                    "Manjunatha Pattabi",
+                    "Ganesh Sanjeeva"
+                ],
+                "journal": "AIP Conference Proceedings",
+                "volume": "1349",
+                "year": "2011",
+                "doi": "605-606",
+                "link": "https://doi.org/10.1063/1.3606003"
+            },
+            {
+                "title": "Morphological changes in nanoparticulate silver films due to electron beam irradiation of polystyrene substrates",
+                "authors": [
+                    "Manjunatha Pattabi",
+                    "Gurumurthy S C",
+                    "Ganesh Sanjeev",
+                    "Gaikwad A B"
+                ],
+                "journal": "Nuclear Instruments and Methods in Physics Research B",
+                "volume": "269",
+                "year": "2011",
+                "doi": "1534 -1539",
+                "link": "https://doi.org/10.1016/j.nimb.2011.04.109"
+            },
+            {
+                "title": "Electrical behaviour of silver particulate films deposited on 8 MeV electron beam irradiated softened polystyrene substrates.",
+                "authors": [
+                    "Manjunatha Pattabi",
+                    "Gurumurthy S C",
+                    "Ganesh Sanjeev",
+                    "Gaikwad A B"
+                ],
+                "journal": "Journal of Materials Science: Materials in Electronics",
+                "volume": "22",
+                "year": "2011",
+                "doi": "1095-1100",
+                "link": "https://doi.org/10.1007/s10854-010-0266-9"
+            }
+        ]
+    },
+    {
+        "year": 2009,
+        "publications": [
+            {
+                "title": "Electrical behaviour of discontinuous silver films deposited on softened blends of Polystyrene and Poly (4-vinylpyridine)",
+                "authors": [
+                    "Manjunatha Pattabi",
+                    "Pratima Parashar",
+                    "Gurumurthy S C"
+                ],
+                "journal": "Journal of Materials Science: Materials in Electronics",
+                "volume": "20",
+                "year": "2009",
+                "doi": "1182-1185",
+                "link": "https://doi.org/10.1007/s10854-008-9848-1"
+            }
+        ]
+    }
+]

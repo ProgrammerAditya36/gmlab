@@ -9,18 +9,28 @@ interface ProfileProps {
 const ProfileCard = ({ imgUrl, title, description, link }: ProfileProps) => {
     const navigate = useNavigate();
     return (
-        <div className="flex gap-10 justify-around">
-            <div className="">
-                <img src={imgUrl} alt="" className="object-contain max-w-[400px]" />
+        <div className="flex flex-col justify-around gap-5 lg:flex-row lg:gap-10">
+            <div className="mx-auto">
+                <img
+                    src={imgUrl}
+                    alt=""
+                    className="max-w-[250px] object-contain lg:max-w-[400px]"
+                />
             </div>
-            <div className="flex flex-col justify-start gap-5 w-1/2">
-                <h1 className={`text-4xl ${link && 'cursor-pointer'} underline`}>
-                    {link ? <span onClick={() => navigate(link)}>{title}</span> : title}
+            <div className="flex flex-col justify-start text-center lg:w-1/2 lg:gap-5 lg:text-left">
+                <h1
+                    className={`text-4xl ${link && "cursor-pointer"} underline`}
+                >
+                    {link ? (
+                        <span onClick={() => navigate(link)}>{title}</span>
+                    ) : (
+                        title
+                    )}
                 </h1>
-                <p className="text-lg mt-4 text-justify ">{description}</p>
+                <p className="mt-4 text-justify text-lg">{description}</p>
             </div>
         </div>
-    )
-}
+    );
+};
 
-export default ProfileCard
+export default ProfileCard;
