@@ -116,10 +116,7 @@ const pastGroupMembers: section[] = [
 ];
 const PastGroupMembers = () => {
     return (
-        <PageLayout
-            bgUrl="https://lh4.googleusercontent.com/4AYLfJhPvpZ6MOqwsFw4sphEgbSx3zdiY2-i_F0RxCrRBbWUayECwmc7QLak6y_WytpnycinRiBygzJkO9QVf_c=w16383"
-            bgTitle="Past Group Members"
-        >
+        <PageLayout bgTitle="Past Group Members">
             <Container>
                 {pastGroupMembers.map((section) => (
                     <div className="flex flex-col gap-5">

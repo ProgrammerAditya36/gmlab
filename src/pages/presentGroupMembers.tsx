@@ -89,10 +89,7 @@ const presentGroupMembers: section[] = [
 
 const PresentGroupMembers = () => {
     return (
-        <PageLayout
-            bgUrl="https://lh4.googleusercontent.com/4AYLfJhPvpZ6MOqwsFw4sphEgbSx3zdiY2-i_F0RxCrRBbWUayECwmc7QLak6y_WytpnycinRiBygzJkO9QVf_c=w16383"
-            bgTitle="Present Group Members"
-        >
+        <PageLayout bgTitle="Present Group Members">
             <Container>
                 {presentGroupMembers.map((section) => (
                     <div className="flex flex-col gap-5">

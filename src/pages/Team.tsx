@@ -32,10 +32,7 @@ const Team = () => {
         },
     ];
     return (
-        <PageLayout
-            bgUrl="https://lh6.googleusercontent.com/zVAYc_T0f0F6hVGEz3_yO9xPwIqjM0lhlAyGl1kuJzgGKGLLt9Cfn8n9gGRkFxNgTDi05o40QBnYgAlItFGqDos=w16383"
-            bgTitle="MEET THE TEAM"
-        >
+        <PageLayout bgTitle="MEET THE TEAM">
             <Container>
                 {members.map((member) => (
                     <ProfileCard
