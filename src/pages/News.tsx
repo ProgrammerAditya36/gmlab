@@ -1,7 +1,8 @@
 import Container from "../components/Container";
 import PageLayout from "../components/PageLayout";
 
-const imgPath = "/images/GM's_Research_Group_-_News";
+const imgPath =
+    "https://storage.googleapis.com/phoneauth-377dc.appspot.com/images/GM's_Research_Group_-_News";
 const images = [
     "3.jpg",
     "4.jpg",

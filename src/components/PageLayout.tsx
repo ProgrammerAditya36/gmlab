@@ -2,15 +2,17 @@ interface PageLayoutProps {
     children: React.ReactNode;
     bgTitle?: string;
 }
+
 const PageLayout = ({ children, bgTitle }: PageLayoutProps) => {
-    const bgUrl = "/images/GM%27s_Research_Group_-_Bg/bg3.png";
+    const bgUrl =
+        "https://storage.googleapis.com/phoneauth-377dc.appspot.com/images/GM%27s_Research_Group_-_Bg/bg3.png";
 
     return (
         <div>
             <div
                 className="bg-cover bg-center p-0"
                 style={{
-                    backgroundImage: `url(${bgUrl})`,
+                    background: `url(${bgUrl}) center center / cover no-repeat`,
                 }}
             >
                 <div className="flex h-[300px] items-center justify-center p-10 md:p-10">

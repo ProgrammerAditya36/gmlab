@@ -13,7 +13,7 @@ interface section {
     members: member[];
 }
 
-const imagePath = `/images/GM's_Research_Group_-_Present_Group_Members`;
+const imagePath = `https://storage.googleapis.com/phoneauth-377dc.appspot.com/images/GM's_Research_Group_-_Present_Group_Members`;
 
 const presentGroupMembers: section[] = [
     {

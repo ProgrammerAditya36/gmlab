@@ -2,7 +2,7 @@ import Container from "../components/Container";
 import ImageCard from "../components/ImageCard";
 import PageLayout from "../components/PageLayout";
 
-const imagePath = `/images/GM's_Research_Group_-_Facilities`;
+const imagePath = `https://storage.googleapis.com/phoneauth-377dc.appspot.com/images/GM's_Research_Group_-_Facilities`;
 const facilities = [
     "Photocatalytic Chamber",
     "UV Irradiation Chamber",

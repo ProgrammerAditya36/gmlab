@@ -2,7 +2,7 @@ import Container from "../components/Container";
 import ImageGallery from "../components/ImageGallery";
 import PageLayout from "../components/PageLayout";
 
-const imagePath = `/images/GM's_Research_Group_-_Gallery`;
+const imagePath = `https://storage.googleapis.com/phoneauth-377dc.appspot.com/images/GM's_Research_Group_-_Gallery`;
 const images1 = ["1.png", "2.png", "3.png", "4.png", "5.png"];
 const images2 = ["6.png", "7.png"];
 const images3 = ["8.png", "9.png", "10.png"];

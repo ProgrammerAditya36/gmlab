@@ -2,7 +2,7 @@ import PageLayout from "../components/PageLayout";
 
 const Contact = () => {
     return (
-        <PageLayout>
+        <PageLayout bgTitle="Contact">
             <div className="flex items-center justify-center bg-gray-200">
                 <div className="flex w-full max-w-[65%] flex-col gap-2 px-10 py-5 text-justify text-4xl">
                     <div className="block text-left font-semibold text-gray-600">
